@@ -29,7 +29,7 @@ function nomi1() {
 
     let num3 = document.getElementById('num3')
     let num4 = document.getElementById('num4');
-    let result = document.getElementById('result')
+    let result = document.getElementById('result2')
 
     num3 = parseInt(num3.value);
     num4 = parseInt(num4.value);
@@ -42,7 +42,7 @@ function nomi2() {
 
     let num5 = document.getElementById('num5')
     let num6 = document.getElementById('num6');
-    let result = document.getElementById('result')
+    let result = document.getElementById('result3')
 
     num5 = parseInt(num5.value);
     num6 = parseInt(num6.value);
@@ -55,7 +55,7 @@ function nomi3() {
 
     let num7 = document.getElementById('num7')
     let num8 = document.getElementById('num8');
-    let result = document.getElementById('result')
+    let result = document.getElementById('result4')
 
     num7 = parseInt(num7.value);
     num8 = parseInt(num8.value);
